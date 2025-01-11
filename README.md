@@ -1,3 +1,3 @@
 # first-repo
 This my first repo
-<p>add new line</p>
+<p>Add new line</p>
